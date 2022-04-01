@@ -10,7 +10,8 @@
 6. python manage.py startapp todolist
 
 7. python manage.py createsuperuser
-8. python manage.py migrate
-9. python manage.py runserver
+8. manage.py makemigrations
+9. python manage.py migrate
+10. python manage.py runserver
 
 
